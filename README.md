@@ -67,3 +67,8 @@ I studied a cybercrime case (phishing scam) and created a prevention checklist.
 The file is available in the task-5-cybersecurity folder.
 ## 📌 Conclusion
 This project helped me improve my digital skills and understand the importance of safe and responsible technology usage.
+
+<img width="1920" height="1080" alt="github png" src="https://github.com/user-attachments/assets/52e1f48e-3dfd-4d98-a116-dc872f3b22b5" />
+![kaggle png](https://github.com/user-attachments/assets/6f9cdc76-5d70-4795-9e17-3a99e7606c63)
+<img width="738" height="1600" alt="linkedin" src="https://github.com/user-attachments/assets/34fa23e2-674b-4cf3-ad59-fc82d4150a5e" />
+<img width="943" height="2000" alt="infographic png" src="https://github.com/user-attachments/assets/998d1862-03bc-4c61-b67f-932a0af9f6df" />
